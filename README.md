@@ -63,3 +63,19 @@ It is intended for learning, practice, and revision of core DSA topics commonly 
 - Reference for beginners learning DSA
 
 ---
+## 📌 Future Improvements
+
+- Add more problems and optimized solutions
+- Include time and space complexity analysis
+- Add comments and explanations for better understanding
+
+---
+
+##🤝 Contributions
+
+- Contributions are welcome!
+- Feel free to fork this repository, improve the code, and submit a pull request
+
+---
+## Author
+**JAYANTH D R**

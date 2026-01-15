@@ -71,7 +71,7 @@ It is intended for learning, practice, and revision of core DSA topics commonly 
 
 ---
 
-##🤝 Contributions
+## 🤝 Contributions
 
 - Contributions are welcome!
 - Feel free to fork this repository, improve the code, and submit a pull request
